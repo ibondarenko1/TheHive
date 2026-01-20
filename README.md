@@ -1,4 +1,4 @@
-...## TheHive 3 & TheHive 4 – End of public distribution
+....## TheHive 3 & TheHive 4 – End of public distribution
 
 Thank you for your interest in TheHive!
 
